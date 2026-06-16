@@ -49,17 +49,17 @@ This platform provides data-driven insights to support career planning.
 ## Project Architecture
 
 Raw Job Data  
-↓  
+     ↓  
 Python Data Cleaning  
-↓  
+     ↓  
 NLP Skill Extraction  
-↓  
+     ↓  
 PostgreSQL Database  
-↓  
+     ↓  
 SQL Business Analysis  
-↓  
+     ↓  
 Power BI Dashboards  
-↓  
+     ↓  
 Career Recommendation Engine
 ---
 
