@@ -61,7 +61,7 @@ SQL Business Analysis
 Power BI Dashboards
 ↓
 Career Recommendation Engine
-
+---
 
 ## Project Workflow
 
