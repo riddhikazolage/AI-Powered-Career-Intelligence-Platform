@@ -136,6 +136,9 @@ Provides career guidance based on role demand, salary potential, and required sk
 * 29.5% remote opportunities
 * SQL identified as the most in-demand skill
 
+  <img width="957" height="544" alt="page4_career_recommendation png" src="https://github.com/user-attachments/assets/5de7d57d-7078-4284-893d-fb3eaf9da5b4" />
+
+
 ---
 
 ## Key Insights
